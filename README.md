@@ -19,12 +19,12 @@ The project consists of the following components:
 - **`RandomShapeGenerator.java`**: Main class that generates random shapes, calculates their surface area and volume, and displays the results.
 
 ## Project Details
--- **Sphere**:
+- **Sphere**:
 Formula for Surface Area: 4 * π * r^2
 Formula for Volume: (4/3) * π * r^3
--- **Cylinder**:
+- **Cylinder**:
 Formula for Surface Area: 2 * π * r * (r + h)
 Formula for Volume: π * r^2 * h
--- **Cube**:
+- **Cube**:
 Formula for Surface Area: 6 * a^2
 Formula for Volume: a^3
