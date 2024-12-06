@@ -22,9 +22,15 @@ The project consists of the following components:
 - **Sphere**:
 Formula for Surface Area: 4 * π * r^2
 Formula for Volume: (4/3) * π * r^3
+
 - **Cylinder**:
 Formula for Surface Area: 2 * π * r * (r + h)
 Formula for Volume: π * r^2 * h
+
 - **Cube**:
 Formula for Surface Area: 6 * a^2
 Formula for Volume: a^3
+
+<img width="1470" alt="Снимок экрана 2024-12-06 в 21 33 19" src="https://github.com/user-attachments/assets/6c312b1c-ece7-493f-9ec5-2ea967de8528">
+
+<img width="1470" alt="Снимок экрана 2024-12-06 в 21 33 31" src="https://github.com/user-attachments/assets/fbc63213-7a61-46bf-811e-2134340fb05c">
